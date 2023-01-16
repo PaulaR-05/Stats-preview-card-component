@@ -34,14 +34,14 @@ body {
 }
 
 main {
-  margin-top: 0.1em;
+  margin-top: 0.5em;
   background-color: var(--Dark-desaturated-blue);
   width: 80%;
   border-radius: 1em;
   border: none;
 }
 .img-container {
-  height: 240px;
+  height: 300px;
   border-top-left-radius: 1em;
   border-top-right-radius: 1em;
   background-image: url("../images/image-header-mobile.jpg");
