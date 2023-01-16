@@ -39,9 +39,12 @@ main {
   border-bottom-right-radius: 15px;
   border: none;
 }
+
 .img-container {
-  background: linear-gradient(hsl(277, 64%, 61%, 0.5), hsl(277, 64%, 61%, 0.5)),
-    url(../images/image-header-mobile.jpg);
+  content: url("../images/image-header-mobile.jpg");
+  mix-blend-mode: color-dodge;
+  opacity: 0.8;
+  background-color: hsla(277, 64%, 61%);
   width: 100%;
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
@@ -98,6 +101,7 @@ main span {
     width: 80%;
     padding: 0rem;
   }
+
   .img-container {
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
@@ -107,7 +111,7 @@ main span {
         hsl(277, 64%, 61%, 0.5),
         hsl(277, 64%, 61%, 0.5)
       ),
-      url(../images/image-header-desktop.jpg);
+      url("../images/image-header-desktop.jpg");
     width: 100%;
   }
   .main-container {
