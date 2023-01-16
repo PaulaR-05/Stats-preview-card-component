@@ -31,6 +31,7 @@ body {
   align-items: center;
   border-radius: 15px;
 }
+
 main {
   background-color: var(--Dark-desaturated-blue);
   width: 80%;
