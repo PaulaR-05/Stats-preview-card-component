@@ -110,17 +110,18 @@ main span {
 
   main h1 {
     text-align: left;
-    margin-top: 2rem;
+    margin-top: 3rem;
   }
 
   .main-paragraph {
     text-align: left;
-    margin-top: 0.5rem;
+    margin-top: 0.8rem;
   }
 
   .stats {
     text-align: left;
     margin-left: -26px;
+    margin-top: 18px;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
