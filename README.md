@@ -14,7 +14,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Overview
 
-Here is my solution to the Interactive rating component ✨
+Here is my solution to the Stats preview card component ✨
 
 😊 Happy to hear any feedback and advice. Thanks!
 
